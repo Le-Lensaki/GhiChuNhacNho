@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LPHver3</string>
+
+    <!--    Các hành động-->
+    <string name="common_action_close">Đóng</string>
+    <string name="common_action_save">Lưu</string>
+
+    <!--   Các Menu -->
+    <string name="menu_item_search">Tìm kiếm</string>
+    <string name="menu_item_open">Mở</string>
+    <string name="menu_item_close">Đóng</string>
+    <string name="menu_item_about_app">Tắt âm báo</string>
+    <string name="menu_item_help">Về chúng tôi</string>
+    <string name="menu_item_version_app">Phiên bản %5</string>
+
+    <!--   Màn hình chính -->
+    <string name="mainscreen_add_catergory">Thêm Chủ Đề</string>
+    <string name="mainscreen_add_note">Thêm Địa Điểm</string>
+    <string name="mainscreen_edit_note">Sửa Địa Điểm</string>
+    <string name="mainscreen_empty_note">Bạn chưa có ghi chú nào cho mình, hãy tạo mới ghi chú từ hôm nay</string>
+
+    <!--    Màn hình Note detail-->
+    <string name="note_detail_share">Chia sẻ</string>
+    <string name="note_detail_delete">Xoá</string>
+    <string name="note_detail_Category">Chủ Đề</string>
+    <string name="note_detail_note_detail">Chi Tiết Về Địa Điểm</string>
+    <string name="note_detail_other_information">Thông Tin Khác</string>
+    <string name="note_detail_map_location">Vị Trí Bản Đồ</string>
+    <string name="note_detail_note_name_hint">Tên Địa Điểm</string>
+    <string name="note_detail_note_detail_hint">Mô Tả Về Địa Điểm</string>
+    <string name="note_detail_add_note_hint">Ghi Chú - Có Thể Thêm Vào Sau</string>
+    <string name="note_detail_address_hint">Địa Chỉ</string>
+    <string name="channel_name">Channel 1</string>
+    <string name="channel_description">This is Channel 1</string>
+</resources>
